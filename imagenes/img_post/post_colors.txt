@@ -1,0 +1,9 @@
+COLORS LOGIN
+
+BUTTONS
+Publicar: #0090A2
+
+BACKGROUNDS
+Escribir algo aqui: #014662
+Menu inferior: #036A94
+	
