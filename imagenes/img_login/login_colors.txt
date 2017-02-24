@@ -1,0 +1,12 @@
+COLORS LOGIN
+
+TEXT
+Usuario, Contraseña, Botones: #E6E6E6
+
+BUTTONS
+Ingresar: #0090A2
+Facebook: #39579B
+Google: #DF4A32
+
+LINE
+line_usuario, password: #D6FAFF
